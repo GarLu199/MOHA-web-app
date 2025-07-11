@@ -20,7 +20,7 @@ def save_users(users):
 
 users = load_users()
 
-st.title("🔐 Login & Sign Up App")
+st.title("🔐 MOHA Martigar App")
 
 username = st.text_input("User Name")
 password = st.text_input("Password", type="password")
