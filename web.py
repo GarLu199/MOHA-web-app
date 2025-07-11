@@ -53,4 +53,3 @@ with col2:
             users[username] = password
             save_users(users)
             st.success("✅ Account created! Please log in.")
-
