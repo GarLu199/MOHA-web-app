@@ -20,7 +20,7 @@ def save_users(users):
 # Load existing users
 users = load_users()
 
-st.title("🔐 Simple Login & Signup App")
+st.title("🔐 MOHA App")
 
 # Input fields
 username = st.text_input("User Name")
